@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url></url>
+	      <url>http://18.220.165.220:8081/repository/madhu-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.220.165.220:8081/repository/kkk_snapshot/</url>
+	      <url>http://18.220.165.220:8081/repository/madhu-nap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
