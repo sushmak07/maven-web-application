@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.220.165.220:8081/repository/madhu-nap/</url>
+	      <url>http://3.136.23.112:8081/repository/filpkart_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
