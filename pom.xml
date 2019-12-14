@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <url>http://18.221.96.107:8081/repository/honey_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
